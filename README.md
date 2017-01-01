@@ -1,5 +1,3 @@
-#ArduinoUno
+#ArduinoUno Project
 
 C++ ArduinUno Functions.
-
-ArduinoUno Project
